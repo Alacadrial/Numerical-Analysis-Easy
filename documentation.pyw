@@ -1,3 +1,4 @@
+# pip install dearpygui==0.6.415
 from dearpygui.demo import *
 from dearpygui.core import *
 from dearpygui.simple import *
